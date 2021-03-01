@@ -2,7 +2,7 @@
 Windows IP Configuration
 
 
-Wireless LAN adapter WLAN:
+Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
@@ -17,13 +17,14 @@ Wireless LAN adapter L„hiverkkoyhteys* 12:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
-Ethernet adapter Ethernet:
+Wireless LAN adapter WLAN:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::a83b:9546:61ee:8c00%3
-   IPv4 Address. . . . . . . . . . . : 192.168.1.4
+   Link-local IPv6 Address . . . . . : fe80::656b:ccee:536:8a5%19
+   IPv4 Address. . . . . . . . . . . : 192.168.1.6
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.1.1
+   Default Gateway . . . . . . . . . : fe80::1e8e:5cff:fe81:c5e2%19
+                                       192.168.1.1
 
 Ethernet adapter Bluetooth-verkkoyhteys:
 
