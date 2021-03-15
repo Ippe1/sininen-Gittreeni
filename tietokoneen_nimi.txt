@@ -2,3 +2,4 @@ DESKTOP-E1B4SAC
 päivämäärä on 14.3.2021
 git harjoitus 9.
 MERGE harjoitus 10 tehty.
+mutt conflikti tuli..
